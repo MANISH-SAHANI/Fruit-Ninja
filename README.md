@@ -5,7 +5,7 @@
 
 
 <h2> About🍈</h2>
-Fruit Ninja is a popular mobile game that was first released in 2010. Developed by Halfbrick Studios, the game quickly gained 
+Fruit Ninja is a popular game that was first released in 2010. Developed by Halfbrick Studios, the game quickly gained 
 popularity and became a favorite among players of all ages. The objective of the game is simple: slice as many fruits as possible while avoiding bombs.
 
 
