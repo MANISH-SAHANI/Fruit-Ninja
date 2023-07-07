@@ -22,7 +22,7 @@ results in an immediate game over, so players must be cautious and focused. As t
 more challenging to slice them all.
 
 The game's vibrant and colorful graphics, coupled with its intuitive controls, make Fruit Ninja a visually appealing and enjoyable experience. With its 
-addictive gameplay and simple yet challenging mechanics, it's no wonder that Fruit Ninja has become a staple among mobile gamers worldwide.
+addictive gameplay and simple yet challenging mechanics.
 
 
 
@@ -39,4 +39,4 @@ that offers endless fun and excitement. So grab your virtual blade and get ready
 
 <h2> Do you want to download the game? 💫 </h2>
 
-You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Asteriods.exe and you are ready to play. Enjoy!
+You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Fruit Ninja.exe and you are ready to play. Enjoy!
